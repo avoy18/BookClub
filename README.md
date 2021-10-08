@@ -1,5 +1,5 @@
 # Book Club
-A simple project made to learn React that uses an open source book api.
+A simple project made to learn React that uses an open source book api. BookList shows a list of books by famous black authors & has an option to search by book title & author. You can also preview each book in a details panel.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
