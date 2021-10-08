@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Book Club
+A simple project made to learn React that uses an open source book api.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
